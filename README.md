@@ -1,44 +1,15 @@
 <img src="cover.png" width="200" align="right" />
 
-# JavaScript Everywhere Web Application
+# JavaScript Everywhere - Notedly, a static web app
 
-This repository contains code examples for the web application chapters of [_JavaScript Everywhere_](https://www.jseverywhere.io/) by Adam D. Scott, published by O'Reilly Media
+This repository contains the code for the Notedly web application as I followed Adam D. Scott's [_JavaScript Everywhere_](https://www.jseverywhere.io/) book, published by O'Reilly Media.
 
-## Getting Help
 
-The best place to get help is our Spectrum channel, [spectrum.chat/jseverywhere](https://spectrum.chat/jseverywhere).
+## To Open the Application
 
-## Directory Structure
+Go [here](https://distracted-wright-660469.netlify.app).
 
-- `/src` If you are following along with the book, this is the directory where you should perform your development.
-- `/solutions` This directory contains the solutions for each chapter. If you get stuck, these are available for you to consult.
-- `/final` This directory contains the final working project
 
-## To Run the Application
-
-When developing locally, you can start the app by running:
-
-```
-npm run dev
-```
-
-If you are interested running the completed application, you can run:
-
-```
-npm run final
-```
-
-## Related Repositories
-
-- [API 🗄️ ](https://github.com/javascripteverywhere/api)
-- [Mobile 🤳](https://github.com/javascripteverywhere/mobile)
-- [Desktop 🖥️](https://github.com/javascripteverywhere/desktop)
-
-## Code of Conduct
-
-In the interest of fostering an open and welcoming environment, I pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation..
-
-This project pledges to follow the [Contributor's Covenant](http://contributor-covenant.org/version/1/4/).
 
 ## License
 
