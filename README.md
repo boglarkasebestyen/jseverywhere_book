@@ -4,6 +4,20 @@
 
 This repository contains the code for the Notedly web application as I followed Adam D. Scott's [_JavaScript Everywhere_](https://www.jseverywhere.io/) book, published by O'Reilly Media.
 
+## Technologies used
+Server-side:
+
+- Node.js
+- Express.js
+- Apollo-Server
+- MongoDB
+
+Web:
+
+- React.js
+- Apollo-Client
+- Styled-Components
+
 
 ## To Open the Application
 
