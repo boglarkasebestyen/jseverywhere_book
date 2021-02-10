@@ -2,10 +2,16 @@ import React, {useEffect} from 'react'
 import {useMutation, useApolloClient, gql} from '@apollo/client'
 import UserForm from '../components/UserForm'
 
+// const SIGNIN_USER = gql`
+//     mutation signIn($username: String, $email: String!, $password: String!) {
+//         signIn(username: $username, email: $email, password: $password)
+//     }
+// `
+
 const SIGNIN_USER = gql`
-    mutation signIn($username: String, $email: String!, $password: String!) {
-        signIn(username: $username, email: $email, password: $password)
-    }
+  mutation signIn($email: String, $password: String!) {
+    signIn(email: $email, password: $password)
+  }
 `
 
 const SignIn = props => {
@@ -41,3 +47,7 @@ const SignIn = props => {
 }
 
 export default SignIn
+
+
+
+
