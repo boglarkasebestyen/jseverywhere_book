@@ -21,7 +21,7 @@ Web:
 
 ## To Open the Application
 
-Go [here](https://distracted-wright-660469.netlify.app).
+Go [here](https://bsebe-deployed-notedly.netlify.app).
 
 
 
