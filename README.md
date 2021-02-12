@@ -2,7 +2,7 @@
 
 # JavaScript Everywhere - Notedly, a static web app
 
-This repository contains the code for the Notedly web application as I followed Adam D. Scott's [_JavaScript Everywhere_](https://www.jseverywhere.io/) book, published by O'Reilly Media.
+This repository contains the web section for the Notedly web application as I followed Adam D. Scott's [_JavaScript Everywhere_](https://www.jseverywhere.io/) book, published by O'Reilly Media.
 
 ## Technologies used
 Server-side:
