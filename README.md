@@ -4,6 +4,19 @@
 
 This repository contains the web section for the Notedly web application as I followed Adam D. Scott's [_JavaScript Everywhere_](https://www.jseverywhere.io/) book, published by O'Reilly Media.
 
+
+![](https://media.giphy.com/media/vGTfP8LiqdaAIcjxRH/giphy.gif)
+
+## How it works
+This is a simple CRUD application that lets the user:
+
+* Sign up
+* Create a note
+* Favorite other user's notes
+* Edit or delete their own note(s)
+* Sign out
+* Sign back in
+
 ## Technologies used
 Server-side:
 
